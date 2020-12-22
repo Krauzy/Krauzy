@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/mzYHhQw/page.png" min-width="600px" max-width="600px" width="600px" align="right" alt="Computador iuriCode">
+<img src="https://i.ibb.co/mzYHhQw/page.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Computador iuriCode">
 
 <p align="left">My name is <strong>Caio Kraut</strong> and I'm Computer Science Studant 🎓</p>
 
