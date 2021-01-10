@@ -18,4 +18,5 @@
   <img src="https://i.ibb.co/nkfVSM6/kisspng-python-javascript-logo-clojure-python-logo-download-5b4ba7062cea30-575890131531684614184.png" width="35px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="30px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width=50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png" width=30px"/>
 </p>  
