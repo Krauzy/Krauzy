@@ -1,7 +1,6 @@
-<img src="https://i.ibb.co/mzYHhQw/page.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Computador iuriCode">
+# Welcome to my git `;)`
+My name is Caio, I'm a Computer Science student 👾
 
-<p align="left">My name is <strong>Caio Kraut</strong> and I'm Computer Science Studant 🎓</p>
+In this git, you'll find a great diversity of projects and codes 😅, since simple scripts that do something, to BIG projects with a lot of dependencies 😰😜
 
-<p align="left">
-  In this repository you will find a little of the things I do in my day 💻, from large projects with Web 🌐 / Mobile 📱, Machine Learning👨🏻‍💻 and AIs🤖, to simple scripts⚙️ in the most diverse programming languages.
-</p>
+I am currently 🧐focused on Data Science, 👨‍💻Machine Learning, 🔒Data Security, 🤖AI. But that’s not why I’m not willing to learn other things 🧑, in fact, I’m an IT enthusiast 💻, it’s kind of obvious with my repositories 🧩.
