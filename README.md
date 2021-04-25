@@ -44,7 +44,7 @@
  <a href="https://spring.io/projects/spring-boot"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/spring.png"></a>
 </p>
 
-<h3 align="center">IA 🤖 and Data Sciense 📈</h3>
+<h3 align="center">IA 🤖 and Data Science 📈</h3>
 <p align="center">
  <a href="https://www.python.org/"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/python.png"></a>
  <a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-160"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/c.png"></a>
