@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://i.ibb.co/tHRt8CL/Dock-2.png" align="right" width="380">
+<img src="https://github-readme-stats.vercel.app/api?username=Krauzy&show_icons=true" align="right" width="380">
 <p>In this git, you'll find a great diversity of projects and codes 😅, since simple scripts that do something, to BIG projects with a lot of dependencies 😰😜.<br><br>I am currently 🧐 focused on Data Science, 👨‍💻 Machine Learning, 🔒 Data Security, 🤖 AI. But that’s not why I’m not willing to learn other things 🧑, in fact, I’m an IT enthusiast 💻, it’s kind of obvious with my repositories 🧩.</p>
 
 <br>
