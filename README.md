@@ -78,7 +78,7 @@
 <br>
 <br>
 
-<h2 align="center">Status</h2>
+<h2 align="center">Stats</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Krauzy&show_icons=true" width="500px">
 </p>
