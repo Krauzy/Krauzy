@@ -73,11 +73,3 @@
  <a href="https://ionicframework.com/"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/ionic.png"></a>
  <a href="https://reactnative.dev/"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/react-native.png"></a>
 </p>
-
-<br>
-<br>
-
-<h2 align="center">Stats</h2>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krauzy&langs_count=8" width="300px">
-</p>
