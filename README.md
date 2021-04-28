@@ -1,7 +1,5 @@
 [![Visits Badge](https://badges.pufler.dev/visits/Krauzy/Krauzy)](https://badges.pufler.dev)
 
-[![Repos Badge](https://badges.pufler.dev/repos/Krauzy)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/Krauzy)](https://badges.pufler.dev)
 <h1 align="center">Welcome to my Github 😌</h1>
 <p align="center">My name is <b>Caio Kraut</b> and I'm a <u>Computer Science student</u> 👾</p>
 
