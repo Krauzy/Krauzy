@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/Krauzy/Krauzy)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/Krauzy/Krauzy?style=for-the-badge&logo=Github?color=252526)](https://github.com/Krauzy)
 
 <h1 align="center">Welcome to my Github 😌</h1>
 <p align="center">My name is <b>Caio Kraut</b> and I'm a <u>Computer Science student</u> 👾</p>
