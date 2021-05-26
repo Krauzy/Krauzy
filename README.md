@@ -11,7 +11,7 @@
 <a href="https://www.facebook.com/caiokm11/"><img src="https://img.shields.io/badge/-FACEBOOK-252526?style=for-the-badge&logo=facebook"></a>
 <a href="https://www.linkedin.com/in/caio-kraut/"><img src="https://img.shields.io/badge/-LINKEDIN-252526?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:caiomarin26@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-252526?style=for-the-badge&logo=gmail"></a>
-<a href="https://discord.com//users/7926"><img src="https://img.shields.io/badge/-DISCORD-252526?style=for-the-badge&logo=discord"></a>
+<a href="https://discord.com/users/7926"><img src="https://img.shields.io/badge/-DISCORD-252526?style=for-the-badge&logo=discord"></a>
 
 
 ---
