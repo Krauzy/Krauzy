@@ -1,46 +1,37 @@
-[![Visits Badge](https://badges.pufler.dev/visits/Krauzy/Krauzy?style=for-the-badge&logo=Github?color=252526)](https://github.com/Krauzy)
+<h1 align="center">Hi 👋, I'm Caio</h1>
+<h3 align="center">A passionate full-stack 💜 and data scientist 🤖 developer from Brazil</h3>
 
-<h1 align="center">Welcome to my Github 😌</h1>
-<p align="center">My name is <b>Caio Kraut</b> and I'm a <u>Computer Science student</u> 👾</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krauzy&label=Profile%20views&color=a037e6&style=flat" alt="krauzy" /> </p>
 
-<br>
+- 👨‍💻 All of my projects are available at [portfolio](https://krauzy-portfolio.vercel.app/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krauzy&show_icons=true&theme=tokyonight" align="right" width="45%">
-<p>In this git, you'll find a great diversity of projects and codes 😅, since simple scripts that do something, to BIG projects with a lot of dependencies 😰😜.<br><br>I am currently 🧐 focused on Data Science, 👨‍💻 Machine Learning, 🔒 Data Security, 🤖 AI. But that’s not why I’m not willing to learn other things 🧑, in fact, I’m an IT enthusiast 💻, it’s kind of obvious with my repositories 🧩.</p>
+- 📫 How to reach me **caiomarin26@gmail.com**
 
-<a href="https://www.facebook.com/caiokm11/"><img src="https://img.shields.io/badge/-FACEBOOK-252526?style=for-the-badge&logo=facebook"></a>
-<a href="https://www.linkedin.com/in/caio-kraut/"><img src="https://img.shields.io/badge/-LINKEDIN-252526?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:caiomarin26@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-252526?style=for-the-badge&logo=gmail"></a>
-<a href="https://discord.com/users/7926"><img src="https://img.shields.io/badge/-DISCORD-252526?style=for-the-badge&logo=discord"></a>
-<a href="https://www.instagram.com/caiokraut/"><img src="https://img.shields.io/badge/-INSTAGRAM-252526?style=for-the-badge&logo=instagram"></a>
+<hr/>
 
-
----
-<p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/html.png"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/css.png"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/JS.png"></a>
-<a href="https://reactjs.org"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/react.png"></a>
-<a href="https://vuejs.org"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/vue.png"></a>
-<a href="https://www.php.net/"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/php.png"></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/c%23.png"></a>
-<a href="https://nodejs.org/en/"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/nodejs.png"></a>
-<a href="https://spring.io/projects/spring-boot"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/spring.png"></a>
-<a href="https://www.python.org/"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/python.png"></a>
-<a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-160"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/c.png"></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-160"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/cpp.png"></a>
-<a href="https://www.java.com/en/"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/java.png"></a>
-<a href="https://www.mysql.com/"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/mysql.png"></a>
-<a href="https://www.postgresql.org/"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/postgresql.png"></a>
-<a href="https://www.microsoft.com/en-us/sql-server?rtc=1"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/ms-sql-server.png"></a>
-<a href="https://www.mongodb.com/"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/mongo.png"></a>
-<a href="https://aws.amazon.com/?nc1=h_ls"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/AWS.png"></a>
-<a href="https://git-scm.com/"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/git.png"></a>
-<a href="https://azure.microsoft.com/en-us/"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/azure.png"></a>
-<a href="https://www.docker.com/"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/icons8-docker-48.png"></a>
-<a href="https://www.android.com/intl/en/"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/android.png"></a>
-<a href="https://ionicframework.com/"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/ionic.png"></a>
-<a href="https://reactnative.dev/"><img src="https://github.com/Krauzy/Krauzy/blob/main/logos_programming/react-native.png"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mano__do__ceu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mano__do__ceu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/caio-kraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio-kraut" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/169430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="169430" height="30" width="40" /></a>
+<a href="https://fb.com/caiokm11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="caiokm11" height="30" width="40" /></a>
+<a href="https://instagram.com/caiokraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caiokraut" height="30" width="40" /></a>
+<a href="https://discord.gg/7926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7926" height="30" width="40" /></a>
 </p>
 
----
+<hr/>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<hr/>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=krauzy&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="krauzy" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krauzy&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="krauzy" width=335"/>
+</p>
+
+<hr/>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Krauzy/Krauzy/main/github-user-contribution.svg" alt="krauzy" /></p>
