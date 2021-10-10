@@ -36,4 +36,4 @@
 
 <hr/>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Krauzy/Krauzy/main/github-user-contribution.svg" alt="krauzy" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/krauzy/krauzy/output/github-contribution-grid-snake.svg" alt="krauzy" /></p>
