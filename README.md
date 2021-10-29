@@ -30,7 +30,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=krauzy&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="krauzy" width="400"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krauzy&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="krauzy" width=335"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Krauzy&theme=tokyonight&hide_border=true" alt="krauzy" width=380"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Krauzy&theme=tokyonight&hide_border=true&layout=compact" alt="krauzy" width=450"/>
 
 </p>
 
