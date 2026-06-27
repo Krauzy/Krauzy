@@ -2,6 +2,18 @@
 
 <div align="center">
 
+![Profile views](https://komarev.com/ghpvc/?username=Krauzy&style=for-the-badge&color=yellow)
+<span>&nbsp;</span>
+![GitHub followers](https://img.shields.io/github/followers/Krauzy?style=for-the-badge&logo=github)
+<span>&nbsp;</span>
+![GitHub stars](https://img.shields.io/github/stars/Krauzy?style=for-the-badge&logo=github)
+<span>&nbsp;</span>
+![Public repos](https://img.shields.io/badge/Public_repositories-32-F7DF1E?style=for-the-badge&logo=github&logoColor=black)
+
+</div>
+
+<div align="center">
+
 # Caio Kraut
 
 ### Software Engineer IV · Backend Engineering · Cloud-Native Architecture · Platform Engineering
@@ -14,7 +26,9 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://krauzy-portfolio.vercel.app/)
+<span>&nbsp;</span>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Caio%20Kraut-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/caio-kraut)
+<span>&nbsp;</span>
 [![GitHub](https://img.shields.io/badge/GitHub-Krauzy-181717?style=for-the-badge&logo=github)](https://github.com/Krauzy)
 
 </div>
@@ -143,7 +157,10 @@ Production feedback loop
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Krauzy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+<img 
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=Krauzy&theme=tokyonight&hide_border=true&layout=compact" 
+  alt="WakaTime stats"
+/>
 
 </div>
 
@@ -157,16 +174,8 @@ Production feedback loop
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krauzy&repo=order-flow-platform&theme=tokyonight&hide_border=true" alt="order-flow-platform" />
 </a>
 
-<a href="https://github.com/Krauzy/qtwitch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krauzy&repo=qtwitch&theme=tokyonight&hide_border=true" alt="qtwitch" />
-</a>
-
 <a href="https://github.com/Krauzy/exodia">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krauzy&repo=exodia&theme=tokyonight&hide_border=true" alt="exodia" />
-</a>
-
-<a href="https://github.com/Krauzy/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krauzy&repo=portfolio&theme=tokyonight&hide_border=true" alt="portfolio" />
 </a>
 
 </div>
@@ -225,19 +234,6 @@ I am sharpening my work around:
 
 ---
 
-## 🛰️ Public profile signal
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=Krauzy&style=for-the-badge&color=yellow)
-![GitHub followers](https://img.shields.io/github/followers/Krauzy?style=for-the-badge&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/Krauzy?style=for-the-badge&logo=github)
-![Public repos](https://img.shields.io/badge/Public_repositories-32-F7DF1E?style=for-the-badge&logo=github&logoColor=black)
-
-</div>
-
----
-
 ## 📌 What I value in software
 
 > Good software is not just code that works.  
@@ -252,7 +248,9 @@ I value codebases where the architecture is understandable, the operational beha
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-krauzy--portfolio.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://krauzy-portfolio.vercel.app/)
+<span>&nbsp;</span>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Caio%20Kraut-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/caio-kraut)
+<span>&nbsp;</span>
 [![GitHub](https://img.shields.io/badge/GitHub-Krauzy-181717?style=for-the-badge&logo=github)](https://github.com/Krauzy)
 
 </div>
