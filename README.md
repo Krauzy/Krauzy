@@ -178,6 +178,10 @@ Production feedback loop
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krauzy&repo=exodia&theme=tokyonight&hide_border=true" alt="exodia" />
 </a>
 
+<a href="https://github.com/Krauzy/noizy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krauzy&repo=noizy&theme=tokyonight&hide_border=true" alt="noizy" />
+</a>
+
 </div>
 
 ---
